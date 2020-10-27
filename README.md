@@ -1,1 +1,1 @@
-# c_s_e_c
+# k_s_n solutions.
